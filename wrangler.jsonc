@@ -12,7 +12,7 @@
 	 */
 	"name": "request-log",
 	"main": "src/index.ts",
-	"compatibility_date": "2025-04-12",
+	"compatibility_date": "2026-09-29",
 	
 	/**
 	 * Observability & Monitoring
